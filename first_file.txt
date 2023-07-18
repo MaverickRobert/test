@@ -4,4 +4,7 @@ adding second line to after saving first
 i am adding this line in probability 1 branch file :-> first_file.txt
 
 now adding another line for a new pull request to probability1
-creating conflict when probability1 merged with main
+
+Now creating a new line at line 7 in place of two statements :-
+1)creating conflict for when merged with main branch : probability1
+2)creating conflict when probability1 merged with main : main
